@@ -36,12 +36,12 @@ body {
 }
 
 .container .card:nth-child(1) .icon {
-    background: #e07768;
+    background: #9b118a;
 	border-radius: 25px;
 }
 
 .container .card:nth-child(2) .icon {
-    background: #3266a8;
+    background: #7389da;
 	border-radius: 25px;
 }
 
