@@ -46,7 +46,7 @@ body {
 }
 
 .container .card:nth-child(3) .icon {
-    background: ##ff4400;
+    background: #ff4400;
 	border-radius: 25px;
 }
 
